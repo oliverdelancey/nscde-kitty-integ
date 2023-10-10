@@ -6,7 +6,7 @@ NOTE: this script currently ignores "4-color mode", as terminals need a full 16 
 palette, and all NsCDE palette files have 8 colors. This script can (and does)
 extrapolate 8 to 16, but not 4 to 16.
 
-Copyright (c) 2021 Oliver C. Sandli
+Copyright (c) 2023 Oliver Delancey
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
